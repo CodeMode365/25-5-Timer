@@ -141,6 +141,10 @@ body {
         border: 4px solid $lightBlue;
         border-radius: 20px;
 
+        #timer-label{
+          font-size: 1.7rem;
+        }
+
         .title {
           width: 100%;
           height: 30%;
