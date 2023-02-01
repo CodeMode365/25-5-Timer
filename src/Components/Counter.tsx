@@ -26,7 +26,7 @@ const Counter = () => {
     setSecond(sec);
     if (reset) {
       sound.current?.pause();
-      sound.current.currentTime = 0;
+      sound.current!.currentTime = 0;
     }
   }, [min, sec, reset]);
 
