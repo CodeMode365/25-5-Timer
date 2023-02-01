@@ -1,0 +1,5 @@
+export const inr_break = "inr_break"
+export const dcr_break = "dcr_break"
+export const inr_session = "inr_session"
+export const dcr_session = "dcr_session"
+export const reset_lens = "reset_lens"
