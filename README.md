@@ -11,6 +11,7 @@ Welcome to the 25+5 Timer project! This timer is a simple and easy-to-use tool t
 ## Installation
 To install and run the 25+5 Timer locally on your machine, follow these steps:
 1. Clone the repository from GitHub:
-    `git clone https://github.com/<username>/25-5-timer.git`
+    ```https://github.com/CodeMode365/25-5-Timer.git```
+    <code>https://github.com/CodeMode365/25-5-Timer.git</code>
 
  
