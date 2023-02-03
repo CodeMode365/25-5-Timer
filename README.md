@@ -17,7 +17,7 @@ To install and run the 25+5 Timer locally on your machine, follow these steps:
     <code>
     cd 25-5-timer 
     npm install 
-    <code>
+    </code>
     </pre>
 
  
