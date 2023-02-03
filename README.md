@@ -41,4 +41,4 @@ We welcome contributions to the 25+5 Timer project. If you would like to contrib
 This project is licensed under the MIT License. See the LICENSE file for more information.
 ___
 
- ** *View Live project* 👉**: [👽🚀](https://25-5-timer-codemode365.netlify.app/)
+ ***View Live project 👉***: [👽🚀](https://25-5-timer-codemode365.netlify.app/)
