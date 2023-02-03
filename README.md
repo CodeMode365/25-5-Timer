@@ -13,7 +13,11 @@ To install and run the 25+5 Timer locally on your machine, follow these steps:
 1. Clone the repository from GitHub:
     ```https://github.com/CodeMode365/25-5-Timer.git```
 1. Navigate to the project directory and install the required dependencies:
-    <code> cd 25-5-timer 
-    npm install </code>
+    <pre> 
+    <code>
+    cd 25-5-timer 
+    npm install 
+    <code>
+    </pre>
 
  
